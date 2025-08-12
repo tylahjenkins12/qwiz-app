@@ -1,2 +1,2 @@
 # qwiz-app
-This repository will house all code related to the development of the Qwiz Application, this project has been developed for the completion of the Software Innovation Studio subject at UTS.
+This repository contains all the code for the Qwiz App, a project developed for the Software Innovation Studio subject at The University of Technology Sydney (UTS).
