@@ -26,9 +26,20 @@ bin/
 node_modules/
 vendor/
 
+# Python Virtual Environments
+venv/
+env/
+__pycache__/
+*.pyc
+
 # Environment Variables
 .env
 
-# Other common files
+# Package Manager Files
 *.lock
-npm-
+npm-debug.log
+package-lock.json
+
+# Database Files
+*.db
+*.sqlite
